@@ -45,6 +45,11 @@ Welcome to my **Personal Portfolio Website** project! 🚀 This is a fully respo
 
 ---
 
+### Contact Section:
+![Contact](images/contact_page.png)
+
+---
+
 ## 🛠️ Tech Stack
 - **HTML5**
 - **CSS3**
