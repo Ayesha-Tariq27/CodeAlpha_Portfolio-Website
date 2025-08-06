@@ -19,20 +19,29 @@ Welcome to my **Personal Portfolio Website** project! 🚀 This is a fully respo
 ---
 ## 📸 Screenshots
 
-### Landing Section
-![landing]()
 
-### Portfolio Section
-![Portfolio Screenshot](images/portfolio-screenshot.png)
+### Landing Section:
+![landing](images/landing_page.png)
 
+---
 
+### About Section:
+![About](images/about_page.png)
 
+---
 
+### Skills Section:
+![Skills](images/Skill_page.png)
 
+---
 
+### Projects Section:
+![Projects](images/project_page.png)
 
+---
 
-
+### Testimonial Section:
+![Testimonial](images/testimonial_page.png)
 
 ---
 
@@ -65,8 +74,11 @@ Welcome to my **Personal Portfolio Website** project! 🚀 This is a fully respo
 🏗️ Future Improvements:
 
 -Add backend integration for Contact Form (EmailJS / PHP)
+
 -Add Blog Section
+
 -Project filtering & category tabs
+
 -Deploy on GitHub Pages / Netlify
 
 ---
@@ -74,6 +86,15 @@ Welcome to my **Personal Portfolio Website** project! 🚀 This is a fully respo
 🤝 Connect with Me:
 
 LinkedIn: www.linkedin.com/in/ayesha-tariq21
+
+---
+
+## 👩‍💻 Author
+
+**Ayesha Tariq**
+
+---
+
 
 
 
