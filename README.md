@@ -84,8 +84,6 @@ Welcome to my **Personal Portfolio Website** project! 🚀 This is a fully respo
 
 -Project filtering & category tabs
 
--Deploy on GitHub Pages / Netlify
-
 ---
 
 🤝 Connect with Me:
